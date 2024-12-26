@@ -1,0 +1,55 @@
+figure {
+  display: inline-block;
+  border: 1px gray;
+  margin: 20px;
+}
+
+figure img {
+  vertical-align: top;
+  padding: 0px 0px 0px 60px;
+}
+
+figure figcaption {
+  border: 1px blue;
+  text-align: center;
+}
+
+.emailInput {
+  padding-left: 25px;
+}
+
+.submitButton {
+  margin-left: 180px;
+}
+
+header {
+  text-align: center;
+}
+
+.maincontent {
+  display: flex;
+  margin-top: 40px;
+}
+
+.maincontent h3 {
+  text-align: center;
+}
+
+.maincontent section {
+  margin-left: 40px;
+  font-size: 20px;
+  max-width: 620px;
+}
+
+footer {
+  bottom: 0;
+  height: 85px;
+  left: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.body {
+  padding: 0 0 85px;
+  position: relative;
+}
